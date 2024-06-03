@@ -1,5 +1,5 @@
 # APOLLO: Differential Private Online Multi-Sensor Data Prediction
-In this project, we use our proposed differential privacy mechanism in our research paper. and we use the multi-sensor data prediction model in [ACM MM 2020](https://2020.acmmm.org) paper [MISA: Modality-Invariant and -Specific Representations for Multimodal Sentiment Analysis](https://arxiv.org/pdf/2005.03545.pdf)
+In this project, we use our proposed differential privacy mechanism in our research paper. and we use the multi-sensor data prediction model in the open-source project [https://github.com/declare-lab/MISA].
 
 ### Data Download
 
